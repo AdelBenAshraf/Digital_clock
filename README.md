@@ -5,6 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelbenashraf&label=Profile%20views&color=0e75b6&style=flat" alt="adelbenashraf" /> </p>
 
+<p>
+  In this simple project I made two functions one to take number of seconds in numbers and convert it into string form add to 12 **AM** and the other takes     time in string after 12 **AM** and convert it into seconds. 
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adelashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adelashraf" height="30" width="40" /></a>
