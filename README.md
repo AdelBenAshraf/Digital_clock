@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelbenashraf&label=Profile%20views&color=0e75b6&style=flat" alt="adelbenashraf" /> </p>
 
 <p>
-  In this simple project I made two functions one to take number of seconds in numbers and convert it into string form add to 12 **AM** and the other takes     time in string after 12 **AM** and convert it into seconds. 
+  In this simple project I made two functions one to take number of seconds in numbers and convert it into string form add to 12 AM and the other takes     time in string after 12 AM and convert it into seconds. 
 </p>
 
 
